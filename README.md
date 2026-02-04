@@ -1,7 +1,10 @@
-# Git Practice
-Top engineers at Anthropic, OpenAI say AI now writes 100% of their code—with big implications for the future of software development jobs
-=========================
-
+# Software Develop Article
+Article
+-------------------------
+Title: Top engineers at Anthropic, OpenAI say AI now writes 100% of their code—with big implications for the future of software development jobs
+Author: Beatrice Nolan
+Source: [FORTUNE](https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/)
+Published: January 29, 2026
 https://fortune.com/2026/01/29/100-percent-of-code-at-anthropic-and-openai-is-now-ai-written-boris-cherny-roon/
 ----------------------------
 
