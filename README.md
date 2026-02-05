@@ -18,6 +18,6 @@ What I found most interesting about this article is how it shows the role of sof
 
 I also found it interesting that such trend does not eliminate the need for human software engineers, but it would changes their responsibilities. The article implies that human judgment and decision-making are still essential. This shift raises important questions about how future developers like me should be trained and what skills will matter most.
 
-### Comment from Lily Luo
+### Comment from [Lily Luo](https://github.com/lilyluo7412)
 
 > I found your reflection **very insightful**, especially your discussion of how engineers are shifting toward **guiding AI-generated code** rather than writing everything manually. Comparing this to the article I read about technology in the 2026 Winter Olympics made me appreciate how software engineering increasingly focuses on **system design, reliability, and decision-making** across many different fields.
